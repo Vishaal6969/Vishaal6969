@@ -11,6 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Vishaal6969&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Vishaal6969&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishaal6969&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishaal6969&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vishaal6969&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
