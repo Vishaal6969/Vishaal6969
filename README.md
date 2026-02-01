@@ -1,22 +1,81 @@
-# 💫 About Me:
-👋 Hey, I'm Vishaal !<br>I’m a 2nd-year ECE student at VIT Chennai, currently navigating the engineering grind while building cool stuff. I’m a hybrid dev, split between the MERN stack, Hardware/VLSI, and Competitive Programming.<br><br>🛠 Tech Stack & Tools<br>🌐 Web Dev (MERN)<br><br>🔌 Hardware & EDA<br><br>Also proficient with Silvaco Atlas and Verilog for digital logic.<br><br>🧠 Competitive Programming<br><br>I love the rush of solving algorithmic challenges.<br><br>Currently honing my skills in Data Structures and Algorithms (DSA).<br><br>Catch me on LeetCode or Codeforces trying to optimize my way to a better rating.<br><br>🚀 Life at VITC<br>🎓 Year: Sophomore (2nd Year)<br><br>🏫 Campus: VIT Chennai<br><br>⚡ Clubbing: Active in the Bionary Club—grinding on tech challenges and collaborative builds.<br><br>📫 Let's Connect!<br>🔭 I’m always down for a collab on a MERN project, a VLSI simulation, or a CP contest.<br><br>💬 Ask me about: Why my circuit isn't converging in LTspice, how to fix a broken React hook, or a cool DP problem I just solved.
+# <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=70a5fd&center=true&vCenter=true&width=500&lines=YO+I'M+VISHAAL!;ECE+STUDENT+@+VITC;MERN+STACK+FAN;VLSI+GEEK" alt="Typing SVG" /> </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/📍-Chennai-70a5fd?style=flat-square" /> 
+<img src="https://img.shields.io/badge/💻-Coding+Nonstop-70a5fd?style=flat-square" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishaal.in4k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vishaal-madhav-s-k-474b89321) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishmadhav22@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-# 📊 GitHub Stats:
+## ⚡ 𝗕𝗶𝘁 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
+I’m a **2nd-year ECE student at VIT Chennai**, basically living in the overlap between hardware and software. One day I'm debugging a **React** hook, and the next I'm trying to figure out why my **CMOS** logic isn't behaving. 
+
+* 🛠️ **Building things:** Mostly with the **MERN stack**, but currently exploring the magic of **Spring Boot** and **Python**.
+* ⚡ **Hardware:** Big fan of **VLSI Design**. I spend way too much time in **Cadence** and **LTspice**.
+* 🧠 **CP Grind:** I love the rush of a green checkmark on **LeetCode** or **Codeforces**.
+* 🤝 **Club Life:** Part of the **Bionary Club**—if there's a tech challenge, I'm probably in it.
+
+---
+
+## 🚀 𝗠𝘆 𝗧𝗼𝗼𝗹𝗸𝗶𝘁
+
+**𝖶𝖾𝖻 𝖲𝗍𝗎𝖿𝖿 & 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾𝗌**
+> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+**𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋𝗂𝗇𝗀 & 𝖤𝖣𝖠**
+> ![Cadence](https://img.shields.io/badge/Cadence-VLSI-blueviolet?style=for-the-badge) ![LTspice](https://img.shields.io/badge/LTspice-Circuit-blue?style=for-the-badge) ![Altium](https://img.shields.io/badge/Altium-PCB-red?style=for-the-badge) ![Verilog](https://img.shields.io/badge/Verilog-HDL-darkgreen?style=for-the-badge) ![Silvaco](https://img.shields.io/badge/Silvaco-Atlas-purple?style=for-the-badge)
+
+**𝖧𝗈𝗌𝗍𝗂𝗇𝗀 & 𝖲𝗈𝖿𝗍𝗐𝖺𝗋𝖾**
+> ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white) ![Notepad](https://img.shields.io/badge/Notepad-Elite_Mode-grey?style=for-the-badge) 
+
+**𝖬𝖾𝖽𝗂𝖺 & 𝖢𝗋𝖾𝖺𝗍𝗂𝗏𝖾**
+> ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Audition-9999FF?style=for-the-badge&logo=adobe-audition&logoColor=white)
+
+---
+
+## 📂 𝗧𝗼𝗽 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+
+| Project Name | Stack | Description |
+| :--- | :--- | :--- |
+| | | |
+| | | |
+
+---
+
+## 🐍 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗦𝗻𝗮𝗸𝗲
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vishaal6969/Vishaal6969/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
+
 ![](https://github-readme-stats.vercel.app/api?username=Vishaal6969&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Vishaal6969&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishaal6969&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishaal6969&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🏆 GitHub Trophies
+---
+
+## 🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀
+
 ![](https://github-profile-trophy.vercel.app/?username=Vishaal6969&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💬 𝗖𝗮𝘁𝗰𝗵 𝗠𝗲 𝗛𝗲𝗿𝗲
+
+<p align="left">
+<a href="https://linkedin.com/in/vishaal-madhav-s-k-474b89321" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/vishaal.in4k" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="mailto:vishmadhav22@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+## ✍️ 𝗥𝗮𝗻𝗱𝗼𝗺 𝗗𝗲𝘃 𝗤𝘂𝗼𝘁𝗲
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vishaal6969&color=70a5fd&style=flat-square&label=VISITORS" />
+</p>
