@@ -8,7 +8,7 @@
 ---
 
 ## ⚡ 𝗕𝗶𝘁 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
-I’m a **2nd-year ECE student at VIT Chennai**, basically living in the overlap between hardware and software. One day I'm debugging a **React** hook, and the next I'm trying to figure out why my **CMOS** logic isn't behaving. 
+I’m a **3rd-year ECE student at VIT Chennai**, basically living in the overlap between hardware and software. One day I'm debugging a **React** hook, and the next I'm trying to figure out why my **CMOS** logic isn't behaving. 
 
 * 🛠️ **Building things:** Mostly with the **MERN stack**, but currently exploring the magic of **Spring Boot** and **Python**.
 * ⚡ **Hardware:** Big fan of **VLSI Design**. I spend way too much time in **Cadence** and **LTspice**.
